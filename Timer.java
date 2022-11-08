@@ -1,6 +1,7 @@
-import java.util.Scanner;
-
-public static void main(String[] args) throws Exception
-{
-    //code
+public class Timer {
+    
+    public static void main(String[] args) throws Exception
+    {
+        //code
+    }
 }
